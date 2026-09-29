@@ -35,7 +35,7 @@ A Bidirectional GRU processes these patch sequences in both directions to model 
 
 ## Dataset
 
-The project uses the **Chest X-Ray Images (Pneumonia)** dataset available on Kaggle.
+The project uses the [Chest X-Ray Images (Pneumonia) dataset](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) available on Kaggle.
 
 The dataset is downloaded programmatically using `kagglehub`:
 
